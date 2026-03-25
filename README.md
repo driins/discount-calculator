@@ -1,9 +1,9 @@
-# Discount Calculator (Tkinter)
+# Discount Calculato
 
 A simple and efficient desktop application built with **Python** using the `Tkinter` library. This tool allows users to calculate the final price of an item after applying a percentage-based discount.
 
 ## Preview
-<img src="Demo1.png" alt="Demo Discount Calculator" width="600"/>
+<img src="Demo1.png" alt="Demo Discount Calculator" width="300"/>
 
 ## Features
 * **Real-time Validation**: Handles empty inputs and non-numeric characters gracefully.
